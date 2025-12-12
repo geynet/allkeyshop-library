@@ -1,9 +1,0 @@
-http://localhost:3000
-
-F:\Allkeyshop\1.ALLKEYSHOP\1_AKS\1_AKS Website\7_Web design\Visual Code\Allkeyshop Library
-
-
-Lancer dans le terminal : cd /d "F:\Allkeyshop\1.ALLKEYSHOP\1_AKS\1_AKS Website\7_Web design\Visual Code\Allkeyshop library"
-docsify serve ./docs
-
-A la fin : Ctrl + C dans le terminal
