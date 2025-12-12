@@ -1,0 +1,27 @@
+/* Fond global du site de doc */
+body {
+  background: #141720;
+  font-family: "Poppins", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #e5e7eb;
+}
+
+
+
+
+/* Couleur des titres dans le contenu Docsify (balise + tout ce qu'il y a dedans) */
+.markdown-section h1,
+.markdown-section h1 *,
+.markdown-section h2,
+.markdown-section h2 *,
+.markdown-section h3,
+.markdown-section h3 *,
+.markdown-section h4,
+.markdown-section h4 * {
+  color: #8397c2 !important; /* mets ici la couleur que tu veux */
+}
+
+/* Couleur des textes en gras (strong) dans le contenu Docsify */
+.markdown-section strong {
+  color: #8397c2; /* jaune doré, change si tu veux autre chose */
+  font-weight: 500; /* pour être sûr que ça reste bien en gras */
+}
